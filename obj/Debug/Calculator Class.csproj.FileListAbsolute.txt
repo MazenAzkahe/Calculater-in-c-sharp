@@ -1,0 +1,7 @@
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\bin\Debug\Calculator Class.exe.config
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\bin\Debug\Calculator Class.exe
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\bin\Debug\Calculator Class.pdb
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\obj\Debug\Calculator Class.csprojResolveAssemblyReference.cache
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\obj\Debug\Calculator Class.csproj.CoreCompileInputs.cache
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\obj\Debug\Calculator Class.exe
+C:\Users\EngMazen\source\repos\Calculator Class\Calculator Class\obj\Debug\Calculator Class.pdb
